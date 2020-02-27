@@ -9,7 +9,7 @@ import imagen from "./logo192.png";
     align-items: center;
     padding:3rem;
     flex-direction: column;
-    margin-bottom:10rem;
+    margin-bottom:5rem;
 
   `;
   const Button = styled.button`
